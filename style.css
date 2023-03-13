@@ -183,3 +183,6 @@ img {
     animation-iteration-count: infinite; 
     animation-direction: alternate;
 }
+footer {
+    background-color:greenyellow;
+}
