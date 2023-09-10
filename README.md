@@ -1,2 +1,2 @@
 # pranav322.github.io
-my learning journey
+A simple site i created for god knows why
