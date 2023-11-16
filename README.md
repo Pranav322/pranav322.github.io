@@ -1,2 +1,2 @@
 # pranav322.github.io
-A simple site i created for god knows why
+Created this as an absolute beginner just to understand about how DNS and hosting works on github and also to track down my learning but stopped midway 
